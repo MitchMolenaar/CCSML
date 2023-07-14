@@ -72,5 +72,6 @@ We encourage researchers to use validate our machine learning model, so that we 
 
 **contact**
 ------------
-m.a.molenaar1@amsterdamumc.nl
+In case of any questions, please email to:  
+m.a.molenaar1@amsterdamumc.nl or  
 m.j.schuuring@amsterdamumc.nl
