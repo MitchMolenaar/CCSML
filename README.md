@@ -19,8 +19,6 @@ Number of decision trees (n_estimators):	                                       
 Maximum depth of decision tree (max_depth):                                                           1  
 Fraction of training data that is used to train each individual tree (subsample):               0.7  
 
-
-
 **Requirements**
 Requirements
 This code was run and tested on an Nvidia TITAN RTX GPU with the following dependencies:
