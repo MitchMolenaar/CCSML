@@ -46,6 +46,13 @@ xgboost 1.7.3.
 'Lab_LDL': low-density lipoprotein cholesterol (mmoll/l)  
 'SystolischeBloeddrukWaarde': systolic blood pressure (mmHg)
 
+**How to open model?**
+-----------
+Save file to specific folder
+filename = r'xxx\xxx\xxx\xgboost_model.pkl'
+Load model
+loaded_model = pickle.load(open(filename, 'rb'))
+
 **Citation**
 ------------
 We encourage researchers to use validate our machine learning model, so that we can have a cumulatively growing literature on the prediction of mortality in patients with ccs. If you use our code, please cite:
