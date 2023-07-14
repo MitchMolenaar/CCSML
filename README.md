@@ -55,7 +55,7 @@ loaded_model = pickle.load(open(filename, 'rb'))
 
 **Citation**
 ------------
-We encourage researchers to use validate our machine learning model, so that we can have a cumulatively growing literature on the prediction of mortality in patients with ccs. If you use our code, please cite:
+We encourage researchers to use validate our machine learning model, so that we can have a cumulatively growing literature on the prediction of mortality in patients with CCS. If you use our code, please cite:
 
 @article{xxx,
   author = {xx},
