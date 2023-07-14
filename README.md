@@ -48,9 +48,9 @@ xgboost 1.7.3.
 
 **How to open model?**
 -----------
-Save file to specific folder
-filename = r'xxx\xxx\xxx\xgboost_model.pkl'
-Load model
+Save file to specific folder  
+filename = r'xxx\xxx\xxx\xgboost_model.pkl'  
+Load model  
 loaded_model = pickle.load(open(filename, 'rb'))
 
 **Citation**
