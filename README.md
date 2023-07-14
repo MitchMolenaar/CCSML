@@ -32,6 +32,20 @@ pandas 1.5.2
 numpy 1.23.5
 xgboost 1.7.3.
 
+**Required Features**
+---------------
+'Age' : age of patient (years)  
+'BMI' : body mass index (kg/m2)  
+'LV_dysfunction': left ventricular dysfunction (yes/no)  
+'Lab_eGFR': estimated glomerular filtration rate (ml/min/1,73 m2)  
+'TR_yesno': tricuspid regurgitation (yes/no)  
+'History_of_COPD': COPD in medical history (yes/no)  
+'periferal_CAD': peripheral coronary artery disease (yes/no)  
+'Hartfrequentie': heart rate (beats per minute)  
+'History_of_atrial_fibrillation_flutter': atrial fibrillation and\or -flutter in medical history (yes/no)  
+'Lab_LDL': low-density lipoprotein cholesterol (mmoll/l)  
+'SystolischeBloeddrukWaarde': systolic blood pressure (mmHg)
+
 **Citation**
 ------------
 We encourage researchers to use validate our machine learning model, so that we can have a cumulatively growing literature on the prediction of mortality in patients with ccs. If you use our code, please cite:
