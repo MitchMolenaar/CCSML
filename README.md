@@ -7,11 +7,17 @@ This model was trained on consecutive patients with CCS who attended the outpati
 The model was tested on patients who attended the outpatient clinic the Amsterdam University Medical Centers, location VUmc.
 
 **Training**
-Hyperparameters of model:                                                                                      Optimal hyperparameters:  
-Learning rate (eta)	[0.01, 0.03, 0.05, 0.07, 0.1]	                                                              0.03  
-Number of decision trees (n_estimators)	[100, 200, 300, 400]	                                                   400  
-Maximum depth of decision tree (max_depth)	[1,2,3,4]	                                                            1  
-Fraction of training data that is used to train each individual tree (subsample)	[0.7,0.8,0.9]	                  0.7  
+Hyperparameters used for training:            
+Learning rate (eta)	[0.01, 0.03, 0.05, 0.07, 0.1]	        
+Number of decision trees (n_estimators)	[100, 200, 300, 400]
+Maximum depth of decision tree (max_depth)	[1,2,3,4]	   
+Fraction of training data that is used to train each individual tree (subsample)	[0.7,0.8,0.9].
+
+Optimal hyperparameters
+Learning rate (eta):                                                      0.03  
+Number of decision trees (n_estimators):	                                                  400  
+Maximum depth of decision tree (max_depth):                                                           1  
+Fraction of training data that is used to train each individual tree (subsample):               0.7  
 
 
 
