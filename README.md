@@ -26,12 +26,11 @@ Fraction of training data that is used to train each individual tree (subsample)
 Requirements
 This code was run and tested on an Nvidia TITAN RTX GPU with the following dependencies:
 
-python 3.8.16
-torch 1.12.1+cu102
-tensorboard 2.11.2
-scikit-learn 1.2.1
-pandas 1.5.3
-numpy 1.24.1
+python 3.8.3
+scikit-learn 1.1.3
+pandas 1.5.2
+numpy 1.23.5
+xgboost 1.7.3.
 
 **Citation**
 ------------
@@ -48,4 +47,9 @@ We encourage researchers to use validate our machine learning model, so that we 
   volume = {xx},
   year = {xx},
   journal = {xx}
-} 
+}
+
+**contact**
+------------
+m.a.molenaar1@amsterdamumc.nl
+m.j.schuuring@amsterdamumc.nl
