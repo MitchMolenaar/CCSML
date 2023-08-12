@@ -16,8 +16,8 @@ Maximum depth of decision tree (max_depth)	[1,2,3,4]
 Fraction of training data that is used to train each individual tree (subsample)	[0.7,0.8,0.9].
 
 Optimal hyperparameters
-Learning rate (eta):                                                      0.03  
-Number of decision trees (n_estimators):	                                                  400  
+Learning rate (eta):                                                      0.05  
+Number of decision trees (n_estimators):	                                                  200  
 Maximum depth of decision tree (max_depth):                                                           1  
 Fraction of training data that is used to train each individual tree (subsample):               0.7  
 
@@ -43,8 +43,7 @@ xgboost 1.7.3.
 'periferal_CAD': peripheral coronary artery disease (yes/no)  
 'Hartfrequentie': heart rate (beats per minute)  
 'History_of_atrial_fibrillation_flutter': atrial fibrillation and\or -flutter in medical history (yes/no)  
-'Lab_LDL': low-density lipoprotein cholesterol (mmoll/l)  
-'SystolischeBloeddrukWaarde': systolic blood pressure (mmHg)
+
 
 **How to open model?**
 -----------
