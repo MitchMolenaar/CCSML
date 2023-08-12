@@ -24,7 +24,7 @@ Fraction of training data that is used to train each individual tree (subsample)
 **Requirements**
 ------------
 Requirements
-This code was run and tested on an Nvidia TITAN RTX GPU with the following dependencies:
+This code was run and tested on a windows-based computer with a Intel Core i5-6200 CPU (2.30 GHz, 8.00GB) with the following dependencies:
 
 python 3.8.3
 scikit-learn 1.1.3
