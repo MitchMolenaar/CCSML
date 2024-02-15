@@ -56,17 +56,17 @@ loaded_model = pickle.load(open(filename, 'rb'))
 ------------
 We encourage researchers to use validate our machine learning model, so that we can have a cumulatively growing literature on the prediction of mortality in patients with CCS. If you use our code, please cite:
 
-@article{xxx,
-  author = {xx},
-  editor = {xx},
+@article{Explainable machine learning using echocardiography to improve risk prediction in patients with chronic coronary syndrome,
+  author = {Molenaar et al.},
+  editor = {European Heart Journal - Digital Health},
   month = {xx},
   pages = {xx},
   title = {xx},
-  doi = {xx},
+  doi = {https://doi.org/10.1093/ehjdh/ztae001},
   urldate = {xx},
   volume = {xx},
-  year = {xx},
-  journal = {xx}
+  year = {2024},
+  journal = {European Heart Journal - Digital Health}
 }
 
 **contact**
